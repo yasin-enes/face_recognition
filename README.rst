@@ -25,6 +25,8 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 Screenshots
 --------
 
+![picturemessage_rxmn5ebq sjo](https://user-images.githubusercontent.com/62393500/115971068-1a77f280-a54f-11eb-8adb-6586e91b44b3.png)
+
 
 Features
 --------
