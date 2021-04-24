@@ -22,6 +22,9 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 * Free software: GNU General Public License v3
 * Documentation: https://face-recognition.readthedocs.io.
 
+Screenshots
+--------
+
 
 Features
 --------
